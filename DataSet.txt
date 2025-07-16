@@ -1,0 +1,5 @@
+link:
+https://www.kaggle.com/datasets/imranbukhari/comprehensive-btcusd-1m-data
+
+El archivo comprimido contiene 7 dataset, Se implementó el dataset llamado:
+BTCUSD_1m_Binance.csv
